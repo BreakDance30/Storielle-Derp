@@ -1,0 +1,87 @@
+.page {
+    width: 892.5px;
+    height: 1263px;
+    background-color: white;
+    border: 1px rgb(220, 220, 220) solid;
+    box-sizing: border-box;
+    padding: 80px;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    font-family: "PT Serif", serif;
+    position: relative;
+    font-size: 20px;
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    letter-spacing: 10px;
+    font-size: 50px;
+    width: 100%;
+}
+
+.center {
+    text-align: center;
+    width: 100%;
+}
+
+.page-number {
+    position: absolute;
+    bottom: 80px;
+    left: 80px;
+}
+
+img {
+    width: 100%;
+}
+
+.cover {
+    position: absolute;
+    left: 0px;
+    top: 0;
+}
+
+.fancy-text {
+    font-family: "Pixelify Sans", sans-serif;
+    font-optical-sizing: auto;
+}
+
+.right-align {
+    text-align: right;
+}
+
+.nav-button {
+    background-color: rgba(0, 0, 0, 0.8);
+    backdrop-filter: blur(5px);
+    color: white;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    position: fixed;
+    top: 50%;
+    transform: translateY(-50%);
+    border: none;
+    font-size: 20px;
+    cursor: pointer;
+    transition: background-color 0.1s;
+}
+
+.nav-button:hover {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+#prevButton {
+    left: 20px;
+}
+
+#nextButton {
+    right: 20px;
+}
+
+#content {
+    line-height: 1.6;
+}
