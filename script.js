@@ -59,6 +59,12 @@ const content = [
 
     '<h2 class="center">C(erulean)apitolo</h2> <div class="center">D(playz)iciannove (19)</div><br><div>Il capitolo d(erpo)i d(p)p</div>',
     '<div>h eyson odp es to scrivend oun bel capitolo vaia vederei lm io sito derpy.place tyty muah *bacio alla francese sulle guancie*</div><div>𝒻𝒾𝓃</div><div class="center">===================</div><div>Il capitolo 19 è sponsorizzato da derpy.place</div><div>derpy.place: il sito più</div>',
+
+    '<h2 class="center">capitototos 20</h2> <div class="bottom">il capitolo dove sono</div>',
+    '<div>Yay! Sono un fantasmino! Una bella fatina che svolazza come Derulean! Hihihihihihi *fox noises perché derpo*)! Hello Mario! (pls leggilo con al voec di crisps rats) e comunque hey derpo lookin good</div> <br> <div>fine capitolo 17</div>',
+
+    '<h2 class="center">capitolo boh non lo so emoji emoji cry cry :=</h2> <div class="bottom">il capitolo dove boh sono silly (p. 21)</div>',
+    '<div>heahahaha bog bogged non so cosa screibere in quwewos captiolo boh strano che numero di captolo era? non l\'ho ricordo! ora checko la foot age. turns out hce siamo a 21 wow 2021 anno mediocre insieme al 2025, anno perggioer di tutti, cioè comme che il 2025 toilet fine capitolo 21</div>'
 ];
 
 function updatePage() {

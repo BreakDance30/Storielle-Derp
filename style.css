@@ -1,3 +1,7 @@
+div {
+    font-size: 50px;
+}
+
 .page {
     width: 892.5px;
     height: 1263px;
@@ -72,6 +76,10 @@ img {
 
 .nav-button:hover {
     background-color: rgba(0, 0, 0, 0.5);
+}
+
+.bottom {
+    margin-top: 100%;
 }
 
 #prevButton {
